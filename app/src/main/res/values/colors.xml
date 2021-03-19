@@ -11,4 +11,6 @@
     
     <!--Colores personalizados -->
     <color name="rojo">#C70039</color>
+    <color name="limon">#46B630</color>
+    <color name="color_texto">#1F37BB</color>
 </resources>
