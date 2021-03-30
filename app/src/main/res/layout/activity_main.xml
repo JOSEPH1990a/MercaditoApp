@@ -5,12 +5,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="@color/rojo">
+    android:background="@color/SecundaryColor">
 
     <ImageView
         android:layout_width="162dp"
         android:layout_height="163dp"
-        android:src="@mipmap/ic_launcher_round"
+        android:src="@drawable/logo"
         app:layout_constraintBottom_toTopOf="@+id/textView4"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
@@ -24,8 +24,9 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="32dp"
         android:text="Mercadito App"
-        android:textColor="@color/color_texto"
+        android:textColor="@color/primaryTextColor"
         android:textSize="85px"
+        android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/textView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
@@ -36,8 +37,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="60dp"
-        android:text="Consigue todas las verduras frescas..."
-        android:textColor="@color/white"
+        android:text="@string/slogan_activity_uno"
+        android:textColor="@color/SecundaryTextColor"
+        android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/progressBar"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
@@ -48,6 +50,7 @@
         android:layout_width="95dp"
         android:layout_height="95dp"
         android:layout_marginBottom="20dp"
+        android:background="#00FFFFFF"
         android:progress="@android:integer/config_mediumAnimTime"
         app:layout_constraintBottom_toTopOf="@+id/textView2"
         app:layout_constraintEnd_toEndOf="parent"
@@ -58,20 +61,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="160dp"
-        android:text="siguiente..."
+        android:text="@string/estado_progressbar_activity_uno"
         android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"></TextView>
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="100sp"
-        android:layout_height="50sp"
-        android:background="@color/limon"
-        android:text="siguiente"
-        tools:layout_editor_absoluteX="158dp"
-        tools:layout_editor_absoluteY="634dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

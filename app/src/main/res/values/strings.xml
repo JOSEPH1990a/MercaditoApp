@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MercaditoApp1</string>
+    
+    <string name="slogan_activity_uno">Consigue tus verduras en línea</string>
+    <string name="estado_progressbar_activity_uno">Cargando...</string>
+
 </resources>
