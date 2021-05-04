@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Design.NoActionBar">
-        <activity android:name=".tour_activity_tres"></activity>
+        <activity android:name=".cambiarcontrasenaactivity"></activity>
+        <activity android:name=".registraractivity" />
+        <activity android:name=".loginActivity" />
+        <activity android:name=".tour_activity_tres" />
         <activity android:name=".TourActivityDos" />
         <activity android:name=".TourActivityUno" />
         <activity android:name=".MainActivity">

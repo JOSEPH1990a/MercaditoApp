@@ -1,8 +1,29 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">MercaditoApp1</string>
 
     <string name="slogan_activity_uno">Consigue tus verduras en línea</string>
     <string name="estado_progressbar_activity_uno">Cargando...</string>
     <string name="paga_cuando_recibes_tu_producto">Paga cuando recibes tu producto</string>
+    <string name="mercadito_app">Mercadito App</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email</string>
+    <string name="inserte_tus_datos_para_iniciar_sesion">Inserte tus datos para iniciar sesion</string>
+    <string name="email">Email</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="inserta_tus_datos_para_iniciar_sesion">Inserta tus datos para iniciar sesion</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="olvido_su_contrase_a">Olvido su contraseña</string>
+    <string name="log_in">Log in</string>
+    <string name="registrar">Registrar</string>
+    <string name="ingresa_los_detalles_de_tu_cuenta">Ingresa los detalles de tu cuenta</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="correo">Correo</string>
+    <string name="estoy_de_acuerdo_con_los_terminos">Estoy de acuerdo con los terminos</string>
+    <string name="se_olvido_la_contrase_a">Se olvido la contraseña?</string>
+    <string name="cambiar">Cambiar</string>
+
 
 </resources>
