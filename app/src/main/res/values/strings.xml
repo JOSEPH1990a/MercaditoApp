@@ -1,17 +1,14 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">MercaditoApp1</string>
+<resources>
+    <string name="app_name" translatable="false">MercaditoApp1</string>
 
-    <string name="slogan_activity_uno">Consigue tus verduras en línea</string>
-    <string name="estado_progressbar_activity_uno">Cargando...</string>
-    <string name="paga_cuando_recibes_tu_producto">Paga cuando recibes tu producto</string>
-    <string name="mercadito_app">Mercadito App</string>
-    <string name="todo">TODO</string>
-    <string name="email">Email</string>
-    <string name="inserte_tus_datos_para_iniciar_sesion">Inserte tus datos para iniciar sesion</string>
-    <string name="email">Email</string>
-    <string name="bienvenido">Bienvenido</string>
-    <string name="inserta_tus_datos_para_iniciar_sesion">Inserta tus datos para iniciar sesion</string>
-    <string name="email">Email</string>
+    <string name="slogan_activity_uno" translatable="false">Consigue tus verduras en línea</string>
+    <string name="estado_progressbar_activity_uno" translatable="false">Cargando...</string>
+    <string name="paga_cuando_recibes_tu_producto" translatable="false">Paga cuando recibes tu producto</string>
+    <string name="mercadito_app" translatable="false">Mercadito App</string>
+    <string name="inserte_tus_datos_para_iniciar_sesion" translatable="false">Inserte tus datos para iniciar sesion</string>
+    <string name="bienvenido" translatable="false">Bienvenido</string>
+    <string name="inserta_tus_datos_para_iniciar_sesion" translatable="false">Inserta tus datos para iniciar sesion</string>
+    <string name="email" translatable="false">Email</string>
     <string name="password">Password</string>
     <string name="olvido_su_contrase_a">Olvido su contraseña</string>
     <string name="log_in">Log in</string>
@@ -24,6 +21,16 @@
     <string name="estoy_de_acuerdo_con_los_terminos">Estoy de acuerdo con los terminos</string>
     <string name="se_olvido_la_contrase_a">Se olvido la contraseña?</string>
     <string name="cambiar">Cambiar</string>
+    <string name="ver_todo">Ver todo</string>
+    <string name="hosehold">Hosehold</string>
+    <string name="siguiente">siguiente</string>
+    <string name="todas_las_categorias">Todas las categorias</string>
+    <string name="household">Household</string>
+    <string name="grocery">Grocery</string>
+    <string name="liquior">Liquior</string>
+    <string name="children">Children</string>
+    <string name="nexus_member_deals">Nexus Member Deals</string>
+
 
 
 </resources>
